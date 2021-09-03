@@ -1,0 +1,63 @@
+body{
+	background-color: #e6e6e6;
+	margin: auto;
+	padding: auto;
+	width: 100%;
+	font-family: cursive;
+
+}
+.form{
+	padding: 12px;
+	margin: 50px auto 0px;
+	background-color: #ffffff;
+	width: 40%;
+}
+label{
+
+	font-size: 14px;
+	padding: 8px;
+	padding-left: 20px;
+	margin: 8px;
+}
+
+input{
+	padding: 14px;
+	margin: 8px;
+	border: 0px;
+	border-bottom: 2px solid;
+	width: 80%;
+}
+.Submit{
+	padding: 10px;
+}
+.sbt{
+	background-color: #6600ff;
+	padding: 4px;
+	margin: 2px;
+	border-bottom: none;
+	width: 20%;
+	font-size: 14px;
+	color:  #d9d9d9;
+	border-radius: 20px;
+
+}
+.sbt input{
+	background-color: #cc33ff;
+	color: white;
+	font-size: 17px
+	border-bottom: none;
+	padding: 5px;
+	margin: 5px;
+}
+.jumbo {
+	background-color: #6600ff;
+	width: 50%;
+	padding: auto;
+	border-radius: 4px solid black;
+	margin: auto;
+	display: inline;
+}
+.sidebar{
+	width: 25%;
+	float: left;
+}
